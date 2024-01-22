@@ -16,9 +16,9 @@ I would like to perform an initial data and exploratory analysis of some of thei
 * Orders_products_prior
 * Departments
 
-## Folders:
+## Folders
 * Project Management: Project Brief.
 * Data: Original data and prepared data sets (Not uploaded due to file size). 
 * Scripts: Python scripts of each task/step.  
 * Analysis: Visualizations created with Python.
-* Sent to client: A final report including Population Flow, Consistency checks, Wrangling steps, Column derivations, Visualizations and Recommandations.
+* Sent to client: A final report including Population Flow, Consistency Checks, Wrangling Steps, Column Derivations, Visualizations and Recommandations.
