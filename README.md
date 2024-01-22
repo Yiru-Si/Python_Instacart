@@ -10,7 +10,7 @@ I would like to perform an initial data and exploratory analysis of some of thei
 * CareerFoundry Data Sets: Customers Data Set.
 
 ## Data  
-* Customer
+* Customers
 * Orders
 * Products
 * Orders_products_prior
